@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../../Downloads/lsilva-main/lsilva-main/assets"
+		},
+		{
+			"name": "Yan Muniz",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Yan Muniz"
+	}
+}
